@@ -1,0 +1,130 @@
+.top-container
+{
+  font-family: 'Itim', cursive;
+  background-image: url('images/background2.JPG');
+  background-size: 100% 100%;
+  text-align: center;
+  color: #ffffff;
+  padding: 100px;
+  border: 100px;
+  margin-right: : 300px;
+}
+
+.middle-container
+{
+  text-align: center;
+  text-shadow: 2px 2px 8px #696969;
+}
+
+.mid-container
+{
+  text-align: center;
+}
+
+
+.skill-container
+{
+  text-align: center;
+  text-shadow: 2px 2px 8px #696969;
+}
+
+
+#tab
+{
+  border-collapse: separate;
+  border-spacing: 250px 50px;
+}
+
+#file {
+  border: none;
+  width: 250px;
+  height: 20px;
+}
+
+#file::-webkit-progress-value {
+  background: #f08080;
+}
+
+#file::-webkit-progress-bar {
+  background-color: #eee;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+.hobby-container
+{
+  text-align: center;
+  text-shadow: 2px 2px 8px #fff8dc;
+}
+
+#tab1
+{
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#col
+{
+  text-align: center;
+}
+
+#col1
+{
+  padding-left: 5.938rem;
+}
+
+.hobby-container,#tab1,#col,#col1
+{
+  background-color: #2f4f4f;
+  color: #f0ffff;
+}
+
+.Project-container
+{
+  text-align: center;
+  text-shadow: 2px 2px 8px #696969;
+}
+
+.proj-container
+{
+  text-align: center;
+}
+
+.achieve-container
+{
+  text-align: center;
+  color: #a52a2a;
+  background-color: #daa520;
+}
+
+#rec_header
+{
+  text-shadow: 2px 2px 8px #696969;
+}
+
+.rule
+{
+  width: 40px;
+  border: 10px;
+  border-top: dotted 5px;
+  color: 	#6495ed;
+}
+
+.footer
+{
+  margin-top: 100px;
+  background-image: url('images/footerpic1.JPG');
+  padding: 25px 0 25px 0;
+  line-height: 2;
+  word-spacing: 50px;
+  color: #11999E;
+  text-align: center;
+}
+
+.footer-name
+{
+ word-spacing: normal;
+ color: #000000;
+ text-align: center;
+}
